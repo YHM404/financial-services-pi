@@ -29,3 +29,9 @@ Given a fund and as-of date, you deliver:
 ## Skills this agent uses
 
 `returns-analysis` · `portfolio-monitoring` · `ic-memo` · `xlsx-author`
+
+## User request from pi command arguments
+
+$ARGUMENTS
+
+If the request above is blank or missing required inputs, ask concise follow-up questions before proceeding.

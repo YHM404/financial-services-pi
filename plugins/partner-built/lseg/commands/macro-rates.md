@@ -63,3 +63,9 @@ Present: macro summary table, yield curve with slope metrics, real rate decompos
 ## Output Format
 
 Present as a dashboard with clearly labeled sections. Lead with the overall macro assessment, then detail each component.
+
+## User request from pi command arguments
+
+$ARGUMENTS
+
+If the request above is blank or missing required inputs, ask concise follow-up questions before proceeding.

@@ -29,3 +29,9 @@ Create a self-contained PPT template skill from a user-provided PowerPoint templ
    - Package the skill
 
 5. **Deliver the packaged skill** to the user
+
+## User request from pi command arguments
+
+$ARGUMENTS
+
+If the request above is blank or missing required inputs, ask concise follow-up questions before proceeding.

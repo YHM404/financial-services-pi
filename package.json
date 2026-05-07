@@ -1,0 +1,35 @@
+{
+  "name": "financial-services-pi",
+  "version": "0.1.0-pi.0",
+  "description": "Pi package adapter for Anthropic's financial-services agents, skills, and command templates.",
+  "license": "Apache-2.0",
+  "keywords": [
+    "pi-package",
+    "agent-skills",
+    "financial-services",
+    "finance",
+    "investment-banking",
+    "equity-research",
+    "private-equity"
+  ],
+  "homepage": "https://github.com/YHM404/financial-services-pi#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YHM404/financial-services-pi.git"
+  },
+  "scripts": {
+    "check:pi": "python3 scripts/check-pi-package.py",
+    "check": "python3 scripts/check-pi-package.py"
+  },
+  "pi": {
+    "skills": [
+      "plugins/vertical-plugins/*/skills",
+      "plugins/partner-built/*/skills"
+    ],
+    "prompts": [
+      "plugins/vertical-plugins/*/commands/*.md",
+      "plugins/partner-built/*/commands/*.md",
+      "plugins/agent-plugins/*/agents/*.md"
+    ]
+  }
+}

@@ -100,3 +100,9 @@ Key Assumptions:
 - WACC: X.X%
 - Terminal Growth: X.X%
 ```
+
+## User request from pi command arguments
+
+$ARGUMENTS
+
+If the request above is blank or missing required inputs, ask concise follow-up questions before proceeding.

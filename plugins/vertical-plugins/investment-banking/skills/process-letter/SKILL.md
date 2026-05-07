@@ -1,6 +1,11 @@
+---
+name: process-letter
+description: "Draft process letters and bid instructions for sell-side M&A processes. Covers initial indication of interest (IOI) instructions, final bid procedures, and management meeting logistics. Triggers on \"process letter\", \"bid instructions\", \"IOI letter\", \"bid procedures\", \"final round letter\", or \"management meeting invite\"."
+license: Apache-2.0
+---
+
 # Process Letter
 
-description: Draft process letters and bid instructions for sell-side M&A processes. Covers initial indication of interest (IOI) instructions, final bid procedures, and management meeting logistics. Triggers on "process letter", "bid instructions", "IOI letter", "bid procedures", "final round letter", or "management meeting invite".
 
 ## Workflow
 

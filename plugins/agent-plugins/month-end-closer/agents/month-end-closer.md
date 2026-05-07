@@ -30,3 +30,9 @@ Given an entity and period (YYYY-MM), you deliver:
 ## Skills this agent uses
 
 `accrual-schedule` · `roll-forward` · `variance-commentary` · `audit-xls` · `xlsx-author`
+
+## User request from pi command arguments
+
+$ARGUMENTS
+
+If the request above is blank or missing required inputs, ask concise follow-up questions before proceeding.

@@ -107,3 +107,9 @@ Before delivery:
 - [ ] Notes section documents sources and methodology
 - [ ] Blue = inputs, Black = formulas
 - [ ] Sanity checks pass (margins logical, multiples reasonable)
+
+## User request from pi command arguments
+
+$ARGUMENTS
+
+If the request above is blank or missing required inputs, ask concise follow-up questions before proceeding.

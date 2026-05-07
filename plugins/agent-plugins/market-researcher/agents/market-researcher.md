@@ -35,3 +35,9 @@ Given a sector or theme and a one-line angle, you deliver:
 ## Skills this agent uses
 
 `sector-overview` · `competitive-analysis` · `comps-analysis` · `idea-generation` · `pptx-author`
+
+## User request from pi command arguments
+
+$ARGUMENTS
+
+If the request above is blank or missing required inputs, ask concise follow-up questions before proceeding.

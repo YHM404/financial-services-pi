@@ -1,6 +1,11 @@
+---
+name: portfolio-rebalance
+description: "Analyze portfolio allocation drift and generate rebalancing trade recommendations across accounts. Considers tax implications, transaction costs, and wash sale rules. Triggers on \"rebalance\", \"portfolio drift\", \"allocation check\", \"rebalancing trades\", or \"my portfolio is out of balance\"."
+license: Apache-2.0
+---
+
 # Portfolio Rebalance
 
-description: Analyze portfolio allocation drift and generate rebalancing trade recommendations across accounts. Considers tax implications, transaction costs, and wash sale rules. Triggers on "rebalance", "portfolio drift", "allocation check", "rebalancing trades", or "my portfolio is out of balance".
 
 ## Workflow
 

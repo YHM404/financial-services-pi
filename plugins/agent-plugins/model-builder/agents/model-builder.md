@@ -32,3 +32,9 @@ Given a ticker, model type, and assumption set, you deliver a fully linked Excel
 ## Skills this agent uses
 
 `dcf-model` · `lbo-model` · `3-statement-model` · `comps-analysis` · `audit-xls`
+
+## User request from pi command arguments
+
+$ARGUMENTS
+
+If the request above is blank or missing required inputs, ask concise follow-up questions before proceeding.

@@ -32,3 +32,9 @@ Given a ticker and reporting period, you deliver three artifacts:
 ## Skills this agent uses
 
 `earnings-analysis` · `model-update` · `audit-xls` · `morning-note` · `earnings-preview`
+
+## User request from pi command arguments
+
+$ARGUMENTS
+
+If the request above is blank or missing required inputs, ask concise follow-up questions before proceeding.

@@ -59,3 +59,9 @@ Present: consensus estimates table, historical financials summary, valuation met
 ## Output Format
 
 Present as a structured research note. Lead with the investment thesis summary (1-2 sentences), then detail supporting sections with tables.
+
+## User request from pi command arguments
+
+$ARGUMENTS
+
+If the request above is blank or missing required inputs, ask concise follow-up questions before proceeding.

@@ -1,3 +1,40 @@
+# Financial Services for pi
+
+This fork adapts Anthropic's `financial-services` repository into a first-class [pi](https://pi.dev) package. The original Claude Cowork / Claude Code plugin files are kept intact, with a `package.json` pi manifest added at the repository root.
+
+## Install in pi
+
+```bash
+pi install git:github.com/YHM404/financial-services-pi
+# or, from a local checkout:
+pi install /path/to/financial-services-pi
+```
+
+After install, restart pi or run `/reload`.
+
+## What pi loads
+
+- **66 skills** from `plugins/vertical-plugins/*/skills` and `plugins/partner-built/*/skills`
+- **57 prompt templates** from vertical/partner commands and named agent prompts
+- Named workflow prompts such as `/pitch-agent`, `/market-researcher`, `/model-builder`, `/gl-reconciler`, `/kyc-screener`
+- Workflow commands such as `/dcf`, `/comps`, `/lbo`, `/earnings`, `/ic-memo`, `/client-review`, `/analyze-bond-rv`
+
+## Pi-specific changes in this fork
+
+- Added `package.json` with a `pi` manifest.
+- Converted legacy `SKILL.md` files that had inline `description:` lines into Agent Skills compatible YAML frontmatter.
+- Renamed two non-conforming skill names to match their directory names: `strip-profile` and `earnings-preview-beta`.
+- Added `$ARGUMENTS` handling to command/agent prompt templates so `/dcf AAPL` and similar pi commands preserve user arguments.
+- Added `scripts/check-pi-package.py` and `npm run check:pi` for pi package validation.
+
+## Limitations
+
+The MCP connector config files from the original repo are retained, but pi does not load Claude `.mcp.json` plugin configs automatically. Data-provider MCPs such as CapIQ, Daloopa, FactSet, LSEG, S&P Global, PitchBook, etc. still require separate credentials/subscriptions and a pi MCP integration or equivalent custom tools.
+
+> Nothing here is investment, legal, tax, or accounting advice. Human review is required for all outputs.
+
+---
+
 # Claude for Financial Services
 
 Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management.

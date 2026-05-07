@@ -6,3 +6,9 @@ argument-hint: "[screen criteria, e.g. 'undervalued midcap tech']"
 Load the `idea-generation` skill and run quantitative screens or thematic sweeps to surface new investment ideas.
 
 If criteria are provided, use them. Otherwise ask the user what they're looking for (long/short, sector, style, theme).
+
+## User request from pi command arguments
+
+$ARGUMENTS
+
+If the request above is blank or missing required inputs, ask concise follow-up questions before proceeding.

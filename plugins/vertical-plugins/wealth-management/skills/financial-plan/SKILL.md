@@ -1,6 +1,11 @@
+---
+name: financial-plan
+description: "Build or update a comprehensive financial plan covering retirement projections, education funding, estate planning, and cash flow analysis. Use for new client onboarding, annual plan reviews, or scenario modeling. Triggers on \"financial plan\", \"retirement plan\", \"can I retire\", \"education funding\", \"estate plan\", \"cash flow analysis\", or \"plan update\"."
+license: Apache-2.0
+---
+
 # Financial Plan
 
-description: Build or update a comprehensive financial plan covering retirement projections, education funding, estate planning, and cash flow analysis. Use for new client onboarding, annual plan reviews, or scenario modeling. Triggers on "financial plan", "retirement plan", "can I retire", "education funding", "estate plan", "cash flow analysis", or "plan update".
 
 ## Workflow
 

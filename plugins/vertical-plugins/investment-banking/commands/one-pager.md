@@ -110,3 +110,9 @@ Before delivery:
 - [ ] Sources cited at bottom
 - [ ] No text overflow or cutoff
 - [ ] Investment banking quality (GS/MS/JPM standard)
+
+## User request from pi command arguments
+
+$ARGUMENTS
+
+If the request above is blank or missing required inputs, ask concise follow-up questions before proceeding.

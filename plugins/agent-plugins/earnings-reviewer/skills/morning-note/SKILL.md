@@ -1,6 +1,11 @@
+---
+name: morning-note
+description: "Draft concise morning meeting notes summarizing overnight developments, trade ideas, and key events for coverage stocks. Designed for the 7am morning meeting format — tight, opinionated, actionable. Triggers on \"morning note\", \"morning meeting\", \"what happened overnight\", \"trade idea\", \"morning call prep\", or \"daily note\"."
+license: Apache-2.0
+---
+
 # Morning Note
 
-description: Draft concise morning meeting notes summarizing overnight developments, trade ideas, and key events for coverage stocks. Designed for the 7am morning meeting format — tight, opinionated, actionable. Triggers on "morning note", "morning meeting", "what happened overnight", "trade idea", "morning call prep", or "daily note".
 
 ## Workflow
 

@@ -6,3 +6,9 @@ argument-hint: "[client name] [period, e.g. Q4 2025]"
 Load the `client-report` skill to generate a professional client-facing performance report.
 
 If a client and period are provided, use them. Otherwise ask for client details and reporting period.
+
+## User request from pi command arguments
+
+$ARGUMENTS
+
+If the request above is blank or missing required inputs, ask concise follow-up questions before proceeding.

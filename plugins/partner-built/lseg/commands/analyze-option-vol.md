@@ -57,3 +57,9 @@ Present: vol surface summary table, Greeks table, implied vs realized comparison
 ## Output Format
 
 Lead with the key vol finding (implied rich/cheap vs realized). Follow with the surface summary, option pricing, and detailed comparison.
+
+## User request from pi command arguments
+
+$ARGUMENTS
+
+If the request above is blank or missing required inputs, ask concise follow-up questions before proceeding.

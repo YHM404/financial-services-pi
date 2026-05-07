@@ -59,3 +59,9 @@ Present: carry-to-vol ratio and overall assessment, spot & forward pricing, carr
 ## Output Format
 
 Lead with the carry-to-vol ratio and overall assessment (attractive / moderate / unattractive). Follow with detailed supporting data in tables.
+
+## User request from pi command arguments
+
+$ARGUMENTS
+
+If the request above is blank or missing required inputs, ask concise follow-up questions before proceeding.

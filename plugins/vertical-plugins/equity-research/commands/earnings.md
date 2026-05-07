@@ -138,3 +138,9 @@ Before delivery:
 - [ ] Guidance changes clearly documented
 - [ ] Rating and price target stated upfront
 - [ ] 8-12 pages, 3,000-5,000 words
+
+## User request from pi command arguments
+
+$ARGUMENTS
+
+If the request above is blank or missing required inputs, ask concise follow-up questions before proceeding.

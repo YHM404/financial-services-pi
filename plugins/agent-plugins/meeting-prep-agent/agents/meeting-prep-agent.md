@@ -29,3 +29,9 @@ Given a client ID and calendar-event ID, you deliver:
 ## Skills this agent uses
 
 `client-review` · `client-report` · `investment-proposal` · `pptx-author`
+
+## User request from pi command arguments
+
+$ARGUMENTS
+
+If the request above is blank or missing required inputs, ask concise follow-up questions before proceeding.

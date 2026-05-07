@@ -62,3 +62,9 @@ Present: portfolio summary metrics, composition breakdowns, cashflow waterfall, 
 ## Output Format
 
 Lead with the portfolio summary metrics, then detail composition, cashflows, and risk analysis in sections.
+
+## User request from pi command arguments
+
+$ARGUMENTS
+
+If the request above is blank or missing required inputs, ask concise follow-up questions before proceeding.

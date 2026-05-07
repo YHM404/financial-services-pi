@@ -55,3 +55,9 @@ If benchmark provided, include side-by-side comparison.
 ## Output Format
 
 Lead with the rich/cheap assessment and supporting evidence. Follow with spread decomposition and scenario tables.
+
+## User request from pi command arguments
+
+$ARGUMENTS
+
+If the request above is blank or missing required inputs, ask concise follow-up questions before proceeding.

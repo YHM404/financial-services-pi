@@ -55,3 +55,9 @@ Present: swap curve table with government overlay, curve metrics, real rate deco
 ## Output Format
 
 Lead with curve shape summary and key metrics (2s10s, butterfly). Follow with detailed tables and trade idea section.
+
+## User request from pi command arguments
+
+$ARGUMENTS
+
+If the request above is blank or missing required inputs, ask concise follow-up questions before proceeding.

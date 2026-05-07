@@ -56,3 +56,9 @@ Present: future summary table, CTD bond analytics, basis calculation table (gros
 ## Output Format
 
 Lead with the basis trade assessment (long/short/neutral) and implied repo comparison. Follow with detailed analytics tables.
+
+## User request from pi command arguments
+
+$ARGUMENTS
+
+If the request above is blank or missing required inputs, ask concise follow-up questions before proceeding.

@@ -31,3 +31,9 @@ Given a trade date and list of asset classes, you deliver:
 ## Skills this agent uses
 
 `gl-recon` · `break-trace` · `audit-xls` · `xlsx-author`
+
+## User request from pi command arguments
+
+$ARGUMENTS
+
+If the request above is blank or missing required inputs, ask concise follow-up questions before proceeding.

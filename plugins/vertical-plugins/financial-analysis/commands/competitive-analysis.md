@@ -6,3 +6,9 @@ argument-hint: "[company or industry]"
 Load the `competitive-analysis` skill and build a competitive landscape analysis for the specified company or industry.
 
 If a company/industry is provided as an argument, use it. Otherwise ask the user what they want to analyze.
+
+## User request from pi command arguments
+
+$ARGUMENTS
+
+If the request above is blank or missing required inputs, ask concise follow-up questions before proceeding.

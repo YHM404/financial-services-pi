@@ -31,3 +31,9 @@ Given an onboarding packet ID, you deliver:
 ## Skills this agent uses
 
 `kyc-doc-parse` · `kyc-rules` · `xlsx-author`
+
+## User request from pi command arguments
+
+$ARGUMENTS
+
+If the request above is blank or missing required inputs, ask concise follow-up questions before proceeding.

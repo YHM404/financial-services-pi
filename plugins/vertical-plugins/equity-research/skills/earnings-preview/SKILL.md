@@ -1,6 +1,11 @@
+---
+name: earnings-preview
+description: "Build pre-earnings analysis with estimate models, scenario frameworks, and key metrics to watch. Use before a company reports quarterly earnings to prepare positioning notes, set up bull/bear scenarios, and identify what will move the stock. Triggers on \"earnings preview\", \"what to watch for [company] earnings\", \"pre-earnings\", \"earnings setup\", or \"preview Q[X] for [company]\"."
+license: Apache-2.0
+---
+
 # Earnings Preview
 
-description: Build pre-earnings analysis with estimate models, scenario frameworks, and key metrics to watch. Use before a company reports quarterly earnings to prepare positioning notes, set up bull/bear scenarios, and identify what will move the stock. Triggers on "earnings preview", "what to watch for [company] earnings", "pre-earnings", "earnings setup", or "preview Q[X] for [company]".
 
 ## Workflow
 
